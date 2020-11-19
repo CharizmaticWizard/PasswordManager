@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Secure</string>
+    <string name="hello_world_welcome">Hello World! Welcome.</string>
+    <string name="second">Welcome to the second page!</string>
+    <string name="add">Add Data</string>
+    <string name="ret">Retrieve Data</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_sign_up_here">Not registered? Sign Up here</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="login">login</string>
+    <string name="cancel">Cancel</string>
+    <string name="fingerprint_authentication">Fingerprint Authentication</string>
+    <string name="image_of_fingerprint">Image of Fingerprint</string>
+    <string name="enter_new_username">Enter new username</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="re_enter_new_password">Re-enter new Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="auth">Authenticate with fingerprint</string>s
+    <string name="new_pin">Enter new Pin</string>
+    <string name="repeat_pin">Re-enter new Pin</string>
+    <string name="data_identifier">Data Identifier</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="add_data">Add Data</string>
+    <string name="retrieve_data">Retrieve Data</string>
+    <string name="username">Username</string>
+    <string name="pin">Pin</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_sign_in">Verify and Sign In</string>
+    <string name="sign_out">sign out</string>
+
+</resources>

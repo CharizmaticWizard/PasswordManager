@@ -15,7 +15,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="036932588G000720" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -55,10 +55,13 @@
   <component name="FavoritesManager">
     <favorites_list name="PasswordManager" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>com.example.passwordmanager</find>
-    </findStrings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1YwbU3W14ALTJlIdia34TJpyQoZ" />
   <component name="ProjectViewState">
@@ -172,19 +175,50 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="53" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1605788331804">
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591302499030">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="53" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605788331804" />
+    <state x="97" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591302499030" />
+    <state x="0" y="194" key="AndroidCreateResourceFileDialog" timestamp="1591330742400">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="0" y="194" key="AndroidCreateResourceFileDialog/0.0.1368.872@0.0.1368.872" timestamp="1591330742400" />
+    <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1591324740821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591324740821" />
+    <state width="1324" height="554" key="GridCell.Tab.0.bottom" timestamp="1591343123869">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="651" height="429" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591326361794" />
+    <state width="1324" height="554" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1591343123869" />
+    <state width="1324" height="554" key="GridCell.Tab.0.center" timestamp="1591343123869">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="651" height="429" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591326361794" />
+    <state width="1324" height="554" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1591343123869" />
+    <state width="1324" height="554" key="GridCell.Tab.0.left" timestamp="1591343123869">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="651" height="429" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591326361794" />
+    <state width="1324" height="554" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1591343123869" />
+    <state width="1324" height="554" key="GridCell.Tab.0.right" timestamp="1591343123869">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="651" height="429" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591326361794" />
+    <state width="1324" height="554" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1591343123869" />
+    <state x="186" y="79" key="SettingsEditor" timestamp="1591327550232">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1591327550232" />
+    <state x="24" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1591302453433">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="24" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1591302453433" />
+    <state x="339" y="196" key="run.anything.popup" timestamp="1591332624474">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="339" y="196" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1591332624474" />
   </component>
 </project>
