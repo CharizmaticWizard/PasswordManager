@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6373325336",
+    "firebase_url": "https://fir-1129d.firebaseio.com",
+    "project_id": "fir-1129d",
+    "storage_bucket": "fir-1129d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6373325336:android:31e0244a9aee1aac6a216d",
+        "android_client_info": {
+          "package_name": "com.example.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6373325336-kqohn02u8nkqmnga0icn1fsqbf9jlba8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passwordmanager",
+            "certificate_hash": "4d8896caa08981f1caf1129e698df23cc468b7f6"
+          }
+        },
+        {
+          "client_id": "6373325336-q54vmj802ik37c2o59hfa7t1esopfl1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjzhljhU6alQ83YbziZRhJhmfQJxWu5v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6373325336-q54vmj802ik37c2o59hfa7t1esopfl1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
